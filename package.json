@@ -1,0 +1,23 @@
+{
+  "name": "node-email",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/u4bi-store/nodemailer-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/u4bi-store/nodemailer-example/issues"
+  },
+  "homepage": "https://github.com/u4bi-store/nodemailer-example#readme",
+  "dependencies": {
+    "nodemailer": "^4.4.0"
+  }
+}
